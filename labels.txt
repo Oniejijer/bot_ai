@@ -1,0 +1,3 @@
+0 Lapiz/Crayon
+1 Audifonos
+2 Libros

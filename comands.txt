@@ -1,0 +1,3 @@
+"@bot.command(name= ""hello", "description" = "Te Saluda el bot!", "guild=GUILD_ID)"
+"async def hello(interaction: discord.Interaction):"
+"await interaction.response.send_message(f'Hi! I am a bot {bot.user}!')"
