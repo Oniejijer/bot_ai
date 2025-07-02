@@ -51,4 +51,4 @@ async def check(ctx):
     else: 
         await ctx.send("No hay archivos adjuntos")
 
-bot.run("MTM4NzIyNzY1MDQ0NzExNDQxMw.G-qV66.cHJlZcsPUvn-affX3vlZmt3_b-nUyRGN1NNt7E")
+bot.run("El token va vos")
